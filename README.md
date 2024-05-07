@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 l am a developer
 
 <!--
 **girigiri2829/girigiri2829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
